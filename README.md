@@ -1,11 +1,5 @@
-# sichuantuguantechnology
-
-This is app-ads for MarbleBlast
-
-Please visit our official website:https://sichuantuguantechnology.com/
-
-For any questions, please send us with emails.
-
-Email(1):yimengweima2020@yeah.net
-
-Email(2):lovepuzzlegame@gmail.com
+{
+"msg":"Welcome!",
+"url":"itms-apps://itunes.apple.com/app/id1532850907",
+"arg":1,
+}
