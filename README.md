@@ -7,6 +7,6 @@
 <zuma_appstore>{
 "msg":"Welcome ZuMa!",
 "url":"itms-apps://itunes.apple.com/app/id1519386843",
-"arg":0,
+"arg":-1,
 }</zuma_appstore>
 
