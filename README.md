@@ -4,11 +4,11 @@
 "arg":0,
 }</bubble_appstore>
 
-<bubble_gptore>{
+<bubble_gp>{
 "msg":"Welcome Bubble Pop!",
 "url":"https://play.google.com/store/apps/details?id=tuguan.game.bubble.shooter",
 "arg":0,
-}</bubble_gptore>
+}</bubble_gp>
 
 
 <zuma_appstore>{
