@@ -20,7 +20,7 @@
 <zuma_gp>{
 "msg":"Welcome to ZuMa!",
 "url":"https://play.google.com/store/apps/details?id=game.marble.bubble",
-"arg":-1,
+"arg":0,
 }</zuma_gp>
 
 <soul_appstore>{
