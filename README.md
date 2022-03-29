@@ -23,6 +23,12 @@
 "arg":0,
 }</zuma_gp>
 
+<marble_appstore>{
+"msg":"Welcome to Marble Pop!",
+"url":"itms-apps://itunes.apple.com/app/id1532850907",
+"arg":0,
+}</marble_appstore>
+
 <soul_appstore>{
 "msg":"Welcome to Bubble Pop Soul!",
 "url":"itms-apps://itunes.apple.com/app/id1536432436",
