@@ -18,9 +18,9 @@
 }</zuma_appstore>
 
 <zuma_gp>{
-"msg":"Welcome to ZuMa!",
+"msg":"It may be updated frequently recently, please click the button to view the details in the store.\nThank U",
 "url":"https://play.google.com/store/apps/details?id=game.marble.bubble",
-"arg":0,
+"arg":9,
 }</zuma_gp>
 
 <marble_appstore>{
