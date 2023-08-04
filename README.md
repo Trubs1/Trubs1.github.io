@@ -21,7 +21,7 @@
 "msg":"Updates may be detected frequently recently. If you have not updated after July 17, 2023,
 \nPlease click the \"OK\" button to update in the store.\nThank You",
 "url":"https://play.google.com/store/apps/details?id=game.marble.bubble",
-"arg":0,
+"arg":9,
 }</zuma_gp>
 
 <marble_appstore>{
