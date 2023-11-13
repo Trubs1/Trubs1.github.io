@@ -1,0 +1,16 @@
+黑苹果安装主要步骤
+(最好是在win下装,mac上会很慢)
+参考网址https://baijiahao.baidu.com/s?id=1652545744126533758&wfr=spider&for=pc
+
+1 找到你主板(显卡)对应的EFI文件 (无论Clover还是OpenCore都直接用别人的,自己弄很麻烦,且高概率出错!没有的话就放弃吧 这上面有大部分机型:https://github.com/daliansky/Hackintosh)
+2 下载对应镜像，下载完成后校验MD5值(用到MD5校验器）. clover下载地址:https://mirrors.dtops.cc/ISO/MacOS/ 若打不开(改本地时间) OC:https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html
+3 将U盘格式化成MAC格式,植入下载的镜像.(用到TransMac)
+4 将本机型对应的EFI文件，替换U盘里面的EFI文件(最内层的EFI文件夹)
+5 规划磁盘空间 ：新建一个500M的ESP分区和Mac数据盘.(用到DiskGenius)(若硬盘已经装过黑苹果,跳过此步)
+6 安装...(将安全启动设为Disabled，然后一定要为UEFI启动，必须将U盘设为第一启动顺序)
+7 硬盘启动 = 把U盘里面的EFI文件夹(最内层的) 拷贝到ESP启动盘.进入WinPE后，打开BOOTICE,添加启动顺序
+
+
+mkdir -p ~/macOS-installer && cd ~/macOS-installer && curl https://raw.githubusercontent.com/munki/macadmin-scripts/main/installinstallmacos.py > installinstallmacos.py && sudo python installinstallmacos.py
+
+把raw….com替换成https://raw.verge.tk
