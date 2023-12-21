@@ -28,3 +28,9 @@
 "url":"itms-apps://itunes.apple.com/app/id1532850907",
 "arg":0,
 }</marble_appstore>
+
+<marble_douyin>{
+"msg":"Welcome to Marble Pop!",
+"url":"itms-apps://itunes.apple.com/app/id1532850907",
+"arg":0,
+}</marble_douyin>
